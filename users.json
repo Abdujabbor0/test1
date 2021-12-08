@@ -1,0 +1,32 @@
+[
+    {
+        "userName": "Abdujabbor",
+        "togrijovob": 2,
+        "notogrijovob": 1,
+        "testlarsoni": 3
+    },
+    {
+        "userName": "Samandar ",
+        "togrijovob": 3,
+        "notogrijovob": 0,
+        "testlarsoni": 3
+    },
+    {
+        "userName": "Abdujabbor",
+        "togrijovob": 2,
+        "notogrijovob": 0,
+        "testlarsoni": 2
+    },
+    {
+        "userName": "Abdusattor",
+        "togrijovob": 1,
+        "notogrijovob": 1,
+        "testlarsoni": 2
+    },
+    {
+        "userName": "Zafar",
+        "togrijovob": 2,
+        "notogrijovob": 0,
+        "testlarsoni": 2
+    }
+]
